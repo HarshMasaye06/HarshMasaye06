@@ -1,3 +1,4 @@
+<div width="100%" >
 <h1 align="center">Hi 👋, I'm Harsh Masaye</h1>
 <h3 align="center">A passionate Developer exploring Frontend Technologies</h3>
 
@@ -22,3 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshmasaye06&show_icons=true&locale=en" alt="harshmasaye06" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshmasaye06&" alt="harshmasaye06" /></p>
 </p>
+</div>
